@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src ="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
 ======================
 
-Full stack Flutter Developer
+Flutter Developer
 ------------------------
 
 
