@@ -1,5 +1,5 @@
 👋 Hi i'm Thushad T
-<img align="right" alt="Coding" width="400" src ="https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif">
+<img align="right" alt="Coding" width="400" src ="https://blog.sagipl.com/wp-content/uploads/2021/01/Python-Web-Development.gif">
 ======================
 
 Full stack Flutter Developer
