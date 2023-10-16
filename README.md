@@ -1,4 +1,4 @@
-👋 Hi i'm Thushad T (Paul)
+👋 Hi i'm Paul Thommithazhe
 <img align="right" alt="Coding" width="400" src ="https://i.gifer.com/Ry6p.gif">
 ======================
 
