@@ -13,8 +13,6 @@ passionate about coding . Enthusiastic and love to learn and work on New and old
 * 🧠  I'm learning App Development by using Flutter also familiar with backend Nodejs.
 * 🤝  I'm open to collaborating on anything that related to App Development using flutter and backend NodeJs. 
 
-<a href="https://github.com/thushad-t" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thushad-t?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 
