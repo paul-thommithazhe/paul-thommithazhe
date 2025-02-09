@@ -1,18 +1,31 @@
-👋 Hi i'm Paul Thommithazhe
-<img align="right" alt="Coding" width="400" src ="https://i.gifer.com/Ry6p.gif">
-======================
+Hi, I'm Paul Thommithazhe
+Full-Stack Developer | Mobile & Backend Engineer
+Passionate about coding, technology, and building scalable applications. Enthusiastic about learning and working with both modern and legacy technologies.
 
-Fullstack Developer
-------------------------
+About Me
+Location: India
+Email:
+Expertise: Full-Stack Development, Mobile & Web Applications
+Currently Learning: Advanced Flutter & Backend Development with Node.js
+Open to Collaboration: App development (Flutter), Backend (Node.js), and Full-Stack projects
+Interests: Scalable architectures, API development, and cross-platform solutions
+Tech Stack
+Frontend & Mobile:
+Flutter (Dart)
+React Native
+UI/UX (Material UI, TailwindCSS)
+Backend & APIs:
+Node.js (Express.js, Nest.js)
+REST & GraphQL APIs
+Database: Firebase, PostgreSQL, MongoDB
+Tools & DevOps:
+Git, Docker, CI/CD Pipelines
+Cloud: AWS, Firebase, DigitalOcean
+Agile & Scrum Methodologies
+Let's Connect
+I love collaborating on innovative projects. Feel free to reach out if you have an exciting opportunity or just want to discuss tech.
 
-
-passionate about coding . Enthusiastic and love to learn and work on New and old technologies
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at _ [![Gmail Badge](https://img.shields.io/badge/-paul04kply@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:paul04kply@gmail.com)](mailto:paul04kply@gmail.com)
-* 🧠  I'm learning App Development by using Flutter also familiar with backend Nodejs.
-* 🤝  I'm open to collaborating on anything that related to App Development using flutter and backend NodeJs. 
-
+LinkedIn | GitHub | Portfolio
 
 
 
