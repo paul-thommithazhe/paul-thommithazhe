@@ -36,13 +36,6 @@ Passionate about software development, problem-solving, and working with both mo
 
 ---
 
-### **📈 GitHub Stats**  
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
-
----
-
 ### **🔗 Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-github-username)  
