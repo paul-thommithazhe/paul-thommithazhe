@@ -9,7 +9,7 @@ Passionate about software development, problem-solving, and working with both mo
 ---
 
 ### **📌 About Me**  
-- **🌍 Location:** India  
+- **📍 Location:** India  
 - **📧 Email:** [![Gmail Badge](https://img.shields.io/badge/-paul04kply@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:paul04kply@gmail.com)](mailto:paul04kply@gmail.com)  
 - **🚀 Currently Learning:** Advanced Flutter & Backend Development with Node.js  
 - **🤝 Open to Collaboration:** App development (Flutter), Backend (Node.js), and Full-Stack projects  
