@@ -1,4 +1,4 @@
-# Paul Thommithazhe  🚀
+# Paul Thommithazhe 🚀
 
 
 ## **Full-Stack Developer | Mobile & Backend Engineer**  
