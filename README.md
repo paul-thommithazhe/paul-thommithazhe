@@ -11,7 +11,7 @@ Passionate about software development, problem-solving, and working with both mo
 - **📍 Location:** India  
 - **📧 Email:** [![Gmail Badge](https://img.shields.io/badge/-paul04kply@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:paul04kply@gmail.com)](mailto:paul04kply@gmail.com)  
 - **🚀 Currently Learning:** Advanced Flutter , KMM and js
-- **🤝 Open to Collaboration:** App development (Flutter), Backend (Node.js), and Full-Stack projects  
+- **🤝 Open to Collaboration:** App development (Android, Flutter), Backend (Node.js).
 - **💡 Interests:** Scalable architectures, API development, and cross-platform solutions  
 
 ---
@@ -19,6 +19,7 @@ Passionate about software development, problem-solving, and working with both mo
 ### **🛠 Tech Stack**  
 
 #### **Frontend & Mobile Development:**  
+- Android Native (Kotlin)
 - Flutter (Dart)  
 - React Native  
 - UI/UX: Material UI, TailwindCSS  
