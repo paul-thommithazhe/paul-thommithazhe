@@ -1,7 +1,7 @@
 # Paul Thommithazhe 🚀
 
 
-## **Full-Stack Developer | Mobile & Backend Engineer**  
+## **Mobile & Backend Engineer**  
 
 Passionate about software development, problem-solving, and working with both modern and legacy technologies. Enthusiastic about building scalable applications and continuously improving my skills.  
 
