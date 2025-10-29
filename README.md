@@ -1,4 +1,4 @@
-# Paul Thommithazhe 🚀
+# PAUL THOMMITHAZHE 🚀
 
 
 ## **Mobile & Backend Engineer**  
