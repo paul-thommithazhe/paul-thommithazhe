@@ -37,7 +37,7 @@ Passionate about software development, problem-solving, and working with both mo
 ---
 
 ### **🔗 Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)  
+[![LinkedIn](https://www.linkedin.com/in/paul-thommithazhe-/)](#)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-github-username)  
 
 ---
