@@ -47,7 +47,7 @@ I am currently focused on mastering the **Medallion Architecture** and distribut
 
 ### 🤝 Connect with Me
 * **LinkedIn:** [paul-thommithazhe-](https://www.linkedin.com/in/paul-thommithazhe-/)
-* **Email:** paul04kply@gmail.com
+* **Email:** paulthommithazhe@gmail.com
 * **Location:** India 🇮🇳
 
 ---
