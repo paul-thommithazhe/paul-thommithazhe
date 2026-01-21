@@ -1,56 +1,56 @@
-PAUL THOMMITHAZHE
-Data Engineer
+# Hi there, I'm Paul Thommithazhe 👋
 
-Focused on building scalable, reliable data pipelines and lakehouse architectures. Transitioning from software engineering into data engineering with hands-on work in distributed data processing, cloud platforms, and analytics-ready data systems.
+### 🚀 Data Engineer | Former Software Engineer
+Focused on building scalable, reliable data pipelines and Lakehouse architectures. I bridge the gap between robust software engineering principles and high-performance data systems.
 
-📌 About Me
+---
 
-📍 Location: India
+### 🛠 Tech Stack
 
-📧 Email: paul04kply@gmail.com
+**Data Engineering & Analytics**
+* **Engine:** Apache Spark (PySpark, Spark SQL)
+* **Storage:** Delta Lake (Lakehouse Architecture), ADLS Gen2
+* **Orchestration:** Apache Airflow (Learning)
+* **Databases:** PostgreSQL, SQL (Analytical Querying)
 
-🎯 Focus: Data engineering foundations and production-oriented pipelines
+**Cloud & Platforms**
+* **Platforms:** Azure Databricks
+* **Containers:** Docker
+* **DevOps:** Git, Version Control
 
-📚 Currently Learning: Apache Spark, PySpark, Azure Databricks, Delta Lake
+---
 
-💡 Interests: Large-scale data processing, data modeling, pipeline reliability, performance optimization
-
-🛠 Tech Stack
-Data Engineering & Analytics
-
-Apache Spark (PySpark, Spark SQL)
-
-Delta Lake (Bronze / Silver / Gold architecture)
-
-Data transformations, joins, aggregations
-
-Batch processing and incremental loads
-
-Cloud & Platforms
-
-Azure Databricks
-
-Azure Data Lake Storage (ADLS Gen2)
-
-Fundamentals of lakehouse architecture
-
-Orchestration & Engineering Tools
-
-Airflow (learning)
-
-Git & version control
-
-Docker (basics for data workloads)
-
-Databases & Querying
+### 🏗 What I'm Building
+I am currently focused on mastering the **Medallion Architecture** and distributed processing.
 
 
-🔗 Connect
 
-LinkedIn: https://www.linkedin.com/in/paul-thommithazhe-/
+* **Bronze:** Raw data ingestion and schema preservation.
+* **Silver:** Data filtering, cleaning, and joining for "truth" tables.
+* **Gold:** Aggregated, business-ready datasets for analytics.
 
-GitHub: https://github.com/your-github-username
+---
 
-SQL (analytical querying)
+### 📊 Featured Projects
+* **Spark Batch Pipelines:** Implementing end-to-end data flows using PySpark.
+* **Delta Lake Implementation:** Hands-on work with schema enforcement, evolution, and time-travel features.
+* **Performance Optimization:** Applying partitioning and broadcast joins to optimize large-scale data processing.
 
-PostgreSQL (relational fundamentals)
+---
+
+### 📚 Currently Learning
+* Advanced **Azure Databricks** workflows.
+* Scalable orchestration with **Apache Airflow**.
+* Real-time processing patterns.
+
+---
+
+### 🤝 Connect with Me
+* **LinkedIn:** [paul-thommithazhe-](https://www.linkedin.com/in/paul-thommithazhe-/)
+* **Email:** paul04kply@gmail.com
+* **Location:** India 🇮🇳
+
+---
+
+### ⚡ Fun Fact
+Transitioning from Software Engineering means I don't just write code that works; I write code that is modular, testable, and maintainable.
