@@ -1,7 +1,7 @@
 # Hi there, I'm Paul Thommithazhe 👋
 
-## 🚀 Embedded Systems Engineer | Former Software Architect
-I bridge the gap between high-level software rigor and low-level firmware. I apply 3+ years of experience in scalable systems to build **modular, testable, and production-ready firmware**.
+## 🚀 Embedded Systems Engineer | Former SDE
+I bridge the gap between high-level software rigor and low-level firmware. I apply 3+ years of experience in Software Development to build **modular, testable, and production-ready firmware**.
 
 ---
 
@@ -21,39 +21,38 @@ I bridge the gap between high-level software rigor and low-level firmware. I app
 ### DevOps & Modern Workflow
 * **CI/CD:** Automated Firmware Builds and Unit Testing (Unity/CMock).
 * **Containers:** Docker for reproducible, hardware-agnostic build environments.
-* [cite_start]**Version Control:** Git used as a system for instrumenting and iterating on production code[cite: 14].
+* **Version Control:** Git used for instrumenting and iterating on firmware revisions.
 
 ---
 
 ## 🏗 What I'm Building
-[cite_start]I am currently architecting a **Software-First Flight Controller** for a custom RC Plane to demonstrate system-level judgment[cite: 9].
+*Currently transitioning into the embedded space. I am focusing on applying modern software engineering patterns to hardware constraints.*
 
-* **Driver Abstraction:** Implementing Hardware Abstraction Layers (HAL) to ensure application logic remains portable.
-* **Deterministic Execution:** Developing preemptive scheduling to guarantee 10ms PID loop updates without "blocking" tasks.
-* [cite_start]**Fault Tolerance:** Designing state-machine-based "Failsafes" to handle real-world failures in production[cite: 89].
+* **Hardware Abstraction:** Implementing HAL layers to keep application logic chip-agnostic.
+* **Real-Time Logic:** Mastering preemptive scheduling and interrupt-driven architectures.
+* **Reliability Patterns:** Designing robust error-handling and state machines for embedded systems.
 
 ---
 
 ## 📊 Featured Projects
-* **RC Flight Controller (Zephyr/C):** 10ms control loops with real-time telemetry. [cite_start]Includes a full architecture diagram and cost analysis[cite: 138, 140].
-* [cite_start]**DMA-Based Data Acquisition:** Optimized high-speed sensor reading (IMU) to reduce CPU overhead by 40%[cite: 41].
-* [cite_start]**JTAG Debugging Suite:** A documented repository of post-mortems for HardFault errors, proving judgment built through production failures[cite: 90].
+* **[Project Name]**: (Coming Soon) - A deep dive into my first hardware integration project.
+* **Firmware Lab:** A repository of my experiments with peripheral drivers (PWM, ADC, Timers) and low-level C optimization.
 
 ---
 
 ## 📚 Currently Learning
-* Advanced **Zephyr RTOS** device tree configurations for modular hardware support.
-* **DSP (Digital Signal Processing)** for sensor fusion and noise filtering.
-* [cite_start]**Hardware-in-the-loop (HIL)** testing to increase perceived likelihood of system success[cite: 12].
+* Advanced **Zephyr RTOS** device tree configurations.
+* **Digital Signal Processing (DSP)** basics for sensor data filtering.
+* **Hardware-in-the-loop (HIL)** testing strategies.
 
 ---
 
 ## 🤝 Connect with Me
-* [cite_start]**LinkedIn:** [Paul Thommithazhe](https://www.linkedin.com/in/paulthommithazhe) — *I post tradeoff analyses and "Mistake Posts" weekly[cite: 145].*
+* **LinkedIn:** [Paul Thommithazhe](https://www.linkedin.com/in/paulthommithazhe) — *I share my learning journey and technical tradeoffs here.*
 * **Email:** paulthommithazhe@gmail.com
 * **Location:** India 🇮🇳
 
 ---
 
 ## ⚡ Fun Fact
-Coming from high-performance software means I don't just "make it work"; [cite_start]I treat firmware like a production system—instrumenting, measuring, and iterating until it is mission-ready[cite: 14, 166].
+Coming from a background as an SDE means I don't just "make it work"; I treat firmware like a production system—modular, versioned, and built to fail gracefully.
