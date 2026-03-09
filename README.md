@@ -1,6 +1,6 @@
 # Hi there, I'm Paul Thommithazhe 👋
 
-## 🚀 Embedded Systems Engineer | Former SDE
+## 🚀 FPGA / Embedded Engineer | Former SDE
 I bridge the gap between high-level software rigor and low-level firmware. I apply 3+ years of experience in Software Development to build **modular, testable, and production-ready firmware**.
 
 ---
